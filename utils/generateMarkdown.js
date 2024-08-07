@@ -64,7 +64,7 @@ function generateMarkdown(data) {
   ${data.tests}
   ${renderLicenseSection(data.license)}
   ## Questions
-  If you have any questions, feel free to reach out to me at [${data.email}](mailto:${data.email}) or on [GitHub](${data.github}).
+  If you have any questions, feel free to reach out to me at [${data.email}](mailto:${data.email}) or on [GitHub](https://github.com/${data.github}).
 
 `;
 }
