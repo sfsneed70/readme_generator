@@ -16,7 +16,7 @@
   ## Contributing
   Fork the project.  Create a feature branch.  Commit your changes.  Push the branch.  Open a pull request.
   ## Tests
-  Run the application answering all the questions.  When finished verify that the README was created successfully in the ouput directory.
+  Run the application answering all the questions.  When finished verify that the README was created successfully in the output folder.
   ## License
     This project is licensed under the MIT license.
   ## Questions
