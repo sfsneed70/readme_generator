@@ -10,7 +10,7 @@
   - [License](#license)
   - [Questions](#questions)
   ## Installation
-  Clone the repository from github.  Install the dependent packages using:  node install
+  Clone the repository from github.  Install the dependent packages using:  npm install
   ## Usage
   Run the application using:  node index.js<br>
   Here is a link to a video walkthrough of using the application:  https://drive.google.com/file/d/1Bv4_5PjYWZVpzM08bsoRgZk4_4qgqmrW/view
